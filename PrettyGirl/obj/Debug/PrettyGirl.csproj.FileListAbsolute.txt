@@ -1,0 +1,25 @@
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.exe.config
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.exe
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.pdb
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.csprojResolveAssemblyReference.cache
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.Form1.resources
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.Properties.Resources.resources
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.csproj.GenerateResource.Cache
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.exe
+c:\users\чистяк\documents\visual studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.pdb
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.SizeChangeForm.resources
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.HWOptionsForm.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.exe.config
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.exe
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.pdb
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.exe
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\bin\Debug\PrettyGirl.pdb
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.csprojResolveAssemblyReference.cache
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.Form1.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.HWOptionsForm.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.Properties.Resources.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.SizeChangeForm.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.csproj.GenerateResource.Cache
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.PreviewForm.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.LetterForm.resources
+C:\Users\Чистяк\Google Диск\projects\PrettyGirl\PrettyGirl\obj\Debug\PrettyGirl.BuildHWForm.resources
